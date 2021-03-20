@@ -10,7 +10,8 @@
 - <!--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- -->
+- 
 - ⚡ Fun fact: ...
-
-https://github-readme-stats.vercel.app/api?username=anuragganji&show_icons=true&theme=dracula
+- -->
+Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=anuragganji&show_icons=true&theme=dracula)
