@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at ... Opentext
-- 🌱 I’m currently learning ... Automation
+- 🔭 I’m currently working at ... Zemoso
+- 🌱 I’m currently learning ... Spring
 - 👯 I’m looking to collaborate on ... Realtime innovate projects
 - 💬 Ask me about ... Technologies, Anime
 <!--
