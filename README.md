@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at ... Zemoso
-- 🌱 I’m currently learning ... Spring
+- 🔭 I’m currently studying at ... Cal State Fullerton
+- 🌱 I’m currently learning ... Web Backend Development
 - 👯 I’m looking to collaborate on ... Realtime innovate projects
 - 💬 Ask me about ... Technologies, Anime
 <!--
@@ -9,7 +9,7 @@
 - -->
 
 <!--
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...email-anuragganji09@gmail.com
 - 😄 Pronouns: ...
 - 
 - ⚡ Fun fact: ...
