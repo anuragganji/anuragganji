@@ -18,3 +18,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=anuragganji&show_icons=true&theme=dracula)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragganji&show_icons=true&theme=dracula)
+
+### Breakdown
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuragganji)
