@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ... Web Backend Development
 - 👯 I’m looking to collaborate on ... Realtime innovate projects
 - 💬 Ask me about ... Technologies, Anime
+- - 📫 How to reach me: ...email-anuragganji09@gmail.com
 <!--
 - 🤔 I’m looking for help with ... 
 - -->
@@ -14,11 +15,10 @@
 - 
 - ⚡ Fun fact: ...
 - -->
-## Stats               
+
+### Stats               
 ![Stats](https://github-readme-stats.vercel.app/api?username=anuragganji&show_icons=true&theme=dracula)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragganji&show_icons=true&theme=dracula)
 
-### Breakdown
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuragganji)
