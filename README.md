@@ -14,7 +14,7 @@
 - 
 - ⚡ Fun fact: ...
 - -->
-Stats               
+##Stats               
 ![Stats](https://github-readme-stats.vercel.app/api?username=anuragganji&show_icons=true&theme=dracula)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragganji&show_icons=true&theme=dracula)
