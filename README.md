@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Web Backend Development
 - 👯 I’m looking to collaborate on ... Realtime innovate projects
 - 💬 Ask me about ... Technologies, Anime
-- 📫 How to reach me: ...email-anuragganji09@gmail.com
+- 📫 How to reach me: anuragganji09@gmail.com
 <!--
 - 🤔 I’m looking for help with ... 
 - -->
